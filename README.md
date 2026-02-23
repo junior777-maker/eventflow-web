@@ -32,4 +32,4 @@ Para rodar o sistema corretamente no seu computador, siga estes passos:
 1. **Clonar o repositório**:
    Abra seu terminal (CMD ou PowerShell) e digite:
    ```bash
-   git clone https://github.com/junior777-maker/eventflow-web-Teste.git
+git clone https://github.com/junior777-maker/eventflow-web.git
