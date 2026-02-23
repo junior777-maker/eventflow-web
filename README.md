@@ -20,7 +20,7 @@ Conforme solicitado pelo Professor Juan Carlos, seguem as capturas de tela das p
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5**: Estruturação semântica.
-* **CSS3**: Estilização e layout responsivo.
+* **CSS3**: Estilização moderna.
 * **JavaScript (Vanilla)**: Lógica de autenticação e manipulação do DOM.
 * **JSON/Fetch API**: Consumo de dados dinâmicos para a lista de eventos.
 
@@ -32,4 +32,4 @@ Para rodar o sistema corretamente no seu computador, siga estes passos:
 1. **Clonar o repositório**:
    Abra seu terminal (CMD ou PowerShell) e digite:
    ```bash
-   git clone [https://github.com/junior777-maker/eventflow-web-Teste.git](https://github.com/junior777-maker/eventflow-web-Teste.git)
+   git clone https://github.com/junior777-maker/eventflow-web-Teste.git
