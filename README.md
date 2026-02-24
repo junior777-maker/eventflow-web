@@ -7,15 +7,20 @@ Aplicação Web para gerenciamento e visualização de eventos, desenvolvida com
 ## 📸 Demonstração do Sistema (Prints)
 Conforme solicitado pelo Professor Juan Carlos, seguem as capturas de tela das principais funcionalidades:
 
+## 📸 Demonstração do Sistema (Prints)
+
 ### Tela de Login
 ![Login](Event%20Flow1.png)
 
-### Tela de Cadastro
+### Tela de Cadastro e Validação
 ![Cadastro](eventflow2.png)
+![Alerta de Cadastro](eventflow3.png)
 
-### Listagem de Eventos (Página Inicial)
+### Tela de Login Preenchida
+![Login Preenchido](eventflow4.png)
+
+### Listagem de Eventos (Página Inicial - Consumindo JSON via Fetch)
 ![Lista de Eventos](eventflow5.png)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
