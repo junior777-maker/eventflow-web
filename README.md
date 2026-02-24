@@ -7,20 +7,21 @@ Aplicação Web para gerenciamento e visualização de eventos, desenvolvida com
 ## 📸 Demonstração do Sistema (Prints)
 Conforme solicitado pelo Professor Juan Carlos, seguem as capturas de tela das principais funcionalidades:
 
-## 📸 Demonstração do Sistema (Prints)
-
-### Tela de Login
+### 1. Tela de Login
 ![Login](Event%20Flow1.png)
 
-### Tela de Cadastro e Validação
+### 2. Tela de Cadastro e Validação
 ![Cadastro](eventflow2.png)
 ![Alerta de Cadastro](eventflow3.png)
 
-### Tela de Login Preenchida
+### 3. Tela de Login Preenchida
 ![Login](eventflow4.png)
 
-### Listagem de Eventos (Página Inicial - Dados via JSON/Fetch)
+### 4. Listagem de Eventos (Página Inicial - Dados via JSON/Fetch)
+> **Nota técnica:** Esta tela demonstra o consumo dinâmico de dados do arquivo JSON através da Fetch API.
 ![Lista de Eventos](eventflow5.png)
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5**: Estruturação semântica.
@@ -34,6 +35,6 @@ Conforme solicitado pelo Professor Juan Carlos, seguem as capturas de tela das p
 Para rodar o sistema corretamente no seu computador, siga estes passos:
 
 1. **Clonar o repositório**:
-   Abra seu terminal (CMD ou PowerShell) e digite:
+   Abra seu terminal e digite:
    ```bash
-git clone https://github.com/junior777-maker/eventflow-web.git
+   git clone [https://github.com/junior777-maker/eventflow-web.git](https://github.com/junior777-maker/eventflow-web.git)
