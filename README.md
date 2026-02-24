@@ -17,11 +17,10 @@ Conforme solicitado pelo Professor Juan Carlos, seguem as capturas de tela das p
 ![Alerta de Cadastro](eventflow3.png)
 
 ### Tela de Login Preenchida
-![Login Preenchido](eventflow4.png)
+![Login](eventflow4.png)
 
-### Listagem de Eventos (Página Inicial - Consumindo JSON via Fetch)
+### Listagem de Eventos (Página Inicial - Dados via JSON/Fetch)
 ![Lista de Eventos](eventflow5.png)
----
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5**: Estruturação semântica.
