@@ -23,14 +23,12 @@ Conforme solicitado pelo Professor Juan Carlos, seguem as capturas de tela das p
 
 ### 3. Confirmação de Cadastro (JS/DOM)
 ![Alerta](eventflow3.png)
-
 ### 4. Tela de Login Preenchida
-![Login Preenchido](eventflow4.png)
+![Login](eventflow4.png)
 
 ### 5. Listagem de Eventos (Página Inicial - Dados via JSON/Fetch)
 > **Nota técnica:** Esta tela demonstra o consumo dinâmico de dados do arquivo JSON através da Fetch API.
 ![Lista de Eventos](eventflow5.png)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
