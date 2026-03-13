@@ -1,25 +1,36 @@
-# EventFlow Web - Gerenciamento de Eventos
+# EventFlow Web - Gerenciamento de Eventos 🚀
 
-Este projeto é uma aplicação web desenvolvida para a disciplina de Desenvolvimento Web, focada na gestão e visualização de eventos. 
+Este projeto é uma aplicação web completa para a gestão de eventos, desenvolvida para a disciplina de Desenvolvimento Web. O foco foi a implementação de uma arquitetura robusta e dinâmica.
 
-## 🚀 Evolução do Projeto
-Seguindo o feedback do Professor Juan Carlos, o projeto foi totalmente reestruturado. Saímos de uma versão estática (HTML/JSON) para uma aplicação robusta utilizando o framework **Laravel**.
+## 📝 Evolução e Dedicação
+Após o feedback do **Professor Juan Carlos** em fevereiro, o projeto passou por uma reestruturação profunda. Saímos de um modelo estático (HTML/JSON) e migramos para uma arquitetura profissional baseada em framework. Este processo envolveu noites de estudo intenso para dominar a ferramenta e garantir a persistência real dos dados.
 
-## 🛠️ Tecnologias Utilizadas
-* **Framework:** Laravel (Padrão MVC)
-* **Linguagem:** PHP
+## 🛠️ Tecnologias e Arquitetura
+* **Framework:** Laravel 10.x (Padrão MVC - Model View Controller)
+* **Linguagem:** PHP 8.x
 * **Banco de Dados:** SQL (SQLite)
-* **Frontend:** Blade Templates & CSS Customizado
+* **Frontend:** Blade Templates, CSS Moderno e Integração com Leaflet Maps
 
-## 📌 Funcionalidades Atuais
-* Autenticação completa (Login e Registro de Usuários no Banco de Dados).
-* Listagem dinâmica de eventos consumindo dados do SQL.
-* Estrutura de rotas organizada.
-* [EM DESENVOLVIMENTO] Edição e Exclusão de eventos (CRUD).
+## 📸 Demonstração do Sistema
 
-## 💻 Como rodar o projeto localmente
-1. Após clonar, instale as dependências: `composer install`
-2. Configure o ambiente: `cp .env.example .env`
-3. Gere a chave: `php artisan key:generate`
-4. Rode as migrações do banco: `php artisan migrate`
+### 1. Tela de Login
+![Login](https://github.com/junior777-maker/eventflow-web/blob/master/public/img/print-login.png?raw=true)
+
+### 2. Tela de Cadastro de Usuário
+![Cadastro de Usuário](https://github.com/junior777-maker/eventflow-web/blob/master/public/img/print-cadastro.png?raw=true)
+
+### 3. Tela Home - Listagem Dinâmica e Mapa (Dados do SQL)
+![Home - Listagem de Eventos](https://github.com/junior777-maker/eventflow-web/blob/master/public/img/print-home.png?raw=true)
+
+### 4. Estrutura do Banco de Dados SQLite (Users e Events)
+![Banco de Dados](https://github.com/junior777-maker/eventflow-web/blob/master/public/img/print-banco.png?raw=true)
+
+## 📌 Status do Projeto
+O sistema já conta com autenticação funcional e listagem dinâmica de eventos consumindo dados reais do banco SQL. Atualmente, estou a trabalhar na finalização do CRUD (implementação dos botões de edição e exclusão de eventos).
+
+## 💻 Como Executar Localmente
+1. Instale as dependências: `composer install`
+2. Configure o arquivo de ambiente: `cp .env.example .env`
+3. Gere a chave da aplicação: `php artisan key:generate`
+4. Rode as migrações (para criar as tabelas): `php artisan migrate`
 5. Inicie o servidor: `php artisan serve`
